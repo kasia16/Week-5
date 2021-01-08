@@ -1,0 +1,73 @@
+body {
+    font-family: "Lato", sans-serif;
+    padding: 0;
+    font-size: 20px;
+  }
+  
+  .app {
+    margin: 100px;
+    border: solid 4px #35a8ba;
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+    padding: 10px 20px;
+    color: #a0cdd4;
+    background-color: #fff;
+    max-width: 600px;
+  }
+  
+  h1 {
+    font-weight: 900;
+    color: #efb08c;
+    margin: 0;
+    padding: 0;
+    font-size: 45px;
+    text-align: left;
+  }
+  
+  input {
+    margin: 0;
+    padding: 10;
+    width: 100%;
+  }
+  h2 {
+    font-weight: 700;
+    color: #35a8ba;
+    margin: 10px 0;
+    font-size: 20px;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    color: #d35d6e;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: left;
+    margin: 0;
+    list-style: none;
+  }
+  button {
+    border-radius: 40px;
+    display: block;
+    font-size: 20px;
+    margin: 0 auto;
+    background: #6443ea;
+    border: 1px solid #8064e9;
+    font-size: 10px;
+    color: #fff;
+    padding: 5px 5px;
+  }
+  .temp {
+    font-size: 57px;
+    color: #35a8ba;
+  }
+  .night-1 {
+    background: rgb(2, 5, 46);
+  }
+  .days {
+    text-align: center;
+    font-size: 16px;
+    color: #35a8ba;
+  }
+  
